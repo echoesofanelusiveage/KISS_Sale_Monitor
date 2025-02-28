@@ -21,6 +21,7 @@ kiss_favorite.txt と kiss_sale_monitor.py を同じディレクトリに置き�
 Place kiss_favorite.txt and kiss_sale_monitor.py in the same directory, replace the content of kiss_favorite.txt with the product links you want to monitor, and then double-click kiss_sale_monitor.py or run it via the command line.
 
 ```bash
+pip install -r requirements.txt
 python kiss_sale_monitor.py
 ```
 
