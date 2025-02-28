@@ -3,7 +3,9 @@
 <h1>KISS_Sale_Monitor</h1>
   
 Automated price monitoring script for COM3D2/CRES official shops.<br><br>
-  
+[COM3D2_SHOP](https://com3d2-shop.s-court.me/top/tag/none/tc/1)
+[CRES SHOP](https://com3d2-shop.s-court.me/cres/top/tag/none/tc/1)
+
 [![License](https://img.shields.io/badge/LICENSE-MIT-green.svg?style=for-the-badge)](https://github.com/echoesofanelusiveage/KISS_Sale_Monitor/blob/main/LICENSE)
 
 </div>
